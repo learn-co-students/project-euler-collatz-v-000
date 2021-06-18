@@ -25,7 +25,11 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-20
 
 DEPENDENCIES
   pry
   rspec
+
+BUNDLED WITH
+   2.2.2
